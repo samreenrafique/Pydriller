@@ -1,0 +1,4 @@
+Mahad Salary is Rs . 34800
+Record Saved at 2022-10-20 11:27:30.955825
+Amin Maqsood Salary is Rs . 14400
+Record Saved at 2022-10-20 11:42:58.971636

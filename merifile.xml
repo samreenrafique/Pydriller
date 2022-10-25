@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <name>Ahad</name>
+    <gender>Male</gender>
+    <Age>12</Age>
+  </row>
+  <row>
+    <index>1</index>
+    <name>Muzammil</name>
+    <gender>Male</gender>
+    <Age>44</Age>
+  </row>
+  <row>
+    <index>2</index>
+    <name>Zaryab</name>
+    <gender>MAle</gender>
+    <Age>23</Age>
+  </row>
+  <row>
+    <index>3</index>
+    <name>Amin</name>
+    <gender>Male</gender>
+    <Age>56</Age>
+  </row>
+  <row>
+    <index>4</index>
+    <name>Mahad</name>
+    <gender>Male</gender>
+    <Age>12</Age>
+  </row>
+</data>
